@@ -1,6 +1,21 @@
 body 
 { 
-    color: deeppink
+    color: rgb(63, 47, 47);
     text-align: center;
-    font-family: "Arial"
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+#container
+{ 
+    width:70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    font-family: "Arial";
+}
+#container h1 { 
+   
+    font-size: 20px;
 }
